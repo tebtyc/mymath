@@ -1,2 +1,0 @@
-# mymath
-# mymath
