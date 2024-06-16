@@ -221,3 +221,7 @@ func Nextafter32(x, y float32) float32 {
 func Pow10(x int) float64 {
 	return math.Pow10(x)
 }
+
+func Signbit(x float64) bool {
+	return math.Signbit(x)
+}
